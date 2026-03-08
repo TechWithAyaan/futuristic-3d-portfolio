@@ -237,3 +237,6 @@ font-weight: 400;
 #logo{
     display: none !important;
 }
+a{
+    display: none !important;
+}
